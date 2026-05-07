@@ -1,0 +1,22 @@
+{
+  "train_auc": 0.828,
+  "test_auc": 0.5621,
+  "test_accuracy": 0.5295,
+  "test_base_rate": 0.4382,
+  "n_train": 43733,
+  "n_test": 18758,
+  "n_test_users": 985,
+  "feature_count": 18,
+  "top_features": {
+    "resting_hr_7d_mean": 0.0737999975681305,
+    "dow": 0.06790000200271606,
+    "steps_7d_mean": 0.06790000200271606,
+    "steps_7d_std": 0.06599999964237213,
+    "very_active_min_7d_mean": 0.061900001019239426,
+    "stress_score_7d_mean": 0.06069999933242798,
+    "very_active_min_7d_std": 0.05790000036358833,
+    "hrv_rmssd_7d_mean": 0.057100001722574234,
+    "mood_tired_rate": 0.05640000104904175,
+    "stress_score_7d_std": 0.05490000173449516
+  }
+}

@@ -1,0 +1,479 @@
+[
+  {
+    "id": "snp_clock_chronotype",
+    "category": "snp",
+    "topic": "circadian-chronotype",
+    "text": "The CLOCK gene (rs1801260) is a core regulator of the circadian rhythm. The minor C allele is associated with later chronotype - evening preference, harder mornings, and slightly shorter habitual sleep duration. CC carriers often struggle with very early starts and benefit from morning daylight exposure, fixed wake times even on weekends, and restricting caffeine to the morning to anchor their circadian phase.",
+    "source": "Allebrandt & Roenneberg, 2008; Mol Psychiatry",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs1801260",
+    "tags": ["circadian", "sleep", "chronotype", "evening", "morning", "CLOCK"]
+  },
+  {
+    "id": "snp_per3_phase",
+    "category": "snp",
+    "topic": "circadian-phase",
+    "text": "PER3 (rs228697) is a second core circadian-clock gene. The G allele is reported in some studies to associate with earlier circadian phasing and better tolerance of morning awakenings. CC carriers tend to be intermediate or evening-leaning and may struggle to force themselves into very early routines without consistent light exposure cues.",
+    "source": "Archer et al., 2003; Sleep",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs228697",
+    "tags": ["circadian", "sleep", "PER3", "morning", "evening"]
+  },
+  {
+    "id": "snp_adrb2_exercise",
+    "category": "snp",
+    "topic": "exercise-response",
+    "text": "ADRB2 (rs1042713) codes for the beta-2 adrenergic receptor, which mediates bronchodilation and the cardiovascular response to high-intensity exercise. The G (Gly16) allele can produce altered sensitivity to beta-2 agonists - sometimes faster receptor desensitisation. GG carriers often benefit from longer warm-ups, more gradual intensity ramps, and (if asthmatic) a discussion with a clinician about inhaler choice.",
+    "source": "Reihsaus et al., 1993; Am J Respir Cell Mol Biol",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs1042713",
+    "tags": ["exercise", "asthma", "ADRB2", "warm-up", "high-intensity"]
+  },
+  {
+    "id": "snp_actn3_athlete",
+    "category": "snp",
+    "topic": "athletic-performance",
+    "text": "ACTN3 (rs1815739) is sometimes called the 'sprinter gene'. It encodes a protein in fast-twitch muscle fibres. The T (X) allele is a stop codon - TT carriers produce no functional alpha-actinin-3 and are over-represented in elite endurance athletes; CC carriers are over-represented in elite sprinters and power athletes. TT carriers tend to respond well to endurance training (long runs, cycling, swimming) and need careful warm-up before explosive efforts.",
+    "source": "Yang et al., 2003; Am J Hum Genet",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs1815739",
+    "tags": ["exercise", "endurance", "power", "sprint", "ACTN3", "training"]
+  },
+  {
+    "id": "snp_cyp1a2_caffeine",
+    "category": "snp",
+    "topic": "caffeine-metabolism",
+    "text": "CYP1A2 (rs762551) codes for the liver enzyme that metabolises caffeine. The A allele encodes the faster form. AA homozygotes are fast caffeine metabolisers and tolerate later/more caffeine; AC and CC carriers are slow metabolisers, clear caffeine more slowly, and often experience longer-lasting effects including sleep disruption when caffeine is consumed in the afternoon. Slow metabolisers should keep daily intake modest (under 200-300 mg) and finish the last cup at least 8-10 hours before bed.",
+    "source": "Cornelis et al., 2006; JAMA",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs762551",
+    "tags": ["caffeine", "coffee", "sleep", "CYP1A2", "metabolism"]
+  },
+  {
+    "id": "snp_mthfr_folate",
+    "category": "snp",
+    "topic": "folate-methylation",
+    "text": "MTHFR (rs1801133, the C677T variant) influences how the body converts folate into its active methylated form. The A (677T) allele reduces enzyme activity - AA homozygotes have around 30% of typical activity, which can affect homocysteine levels and folate utilisation. Carriers benefit from folate-rich foods (leafy greens, legumes, citrus, asparagus) and may consider methylated folate forms (5-MTHF) under clinical guidance if homocysteine is elevated.",
+    "source": "Frosst et al., 1995; Nat Genet",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs1801133",
+    "tags": ["folate", "vitamin", "MTHFR", "methylation", "homocysteine", "nutrition"]
+  },
+  {
+    "id": "snp_fto_appetite",
+    "category": "snp",
+    "topic": "appetite-bmi",
+    "text": "FTO (rs9939609) is the most replicated common genetic variant linked to BMI. A-carriers, especially AA, show modestly higher average BMI and several studies report higher hunger drive and reduced post-meal satiety. Practical strategies that blunt this effect: prioritise high-protein, high-fibre meals; keep meal timing consistent; practice mindful eating; and maintain regular structured exercise, which substantially attenuates the FTO-BMI association.",
+    "source": "Frayling et al., 2007; Science",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs9939609",
+    "tags": ["BMI", "appetite", "hunger", "FTO", "satiety", "weight", "nutrition"]
+  },
+  {
+    "id": "snp_apoe_lipids",
+    "category": "snp",
+    "topic": "lipid-cardiovascular",
+    "text": "APOE (rs429358) is central to lipid metabolism and brain health. The C allele combined with the rs7412 T allele defines the e4 haplotype, which is associated with higher LDL cholesterol and elevated late-onset Alzheimer's disease risk. e4 carriers benefit from a diet lower in saturated fat, richer in omega-3 fatty acids (oily fish, walnuts, flax), regular cardiovascular exercise, and good sleep and cognitive engagement throughout life. APOE e4 is a risk factor, not a destiny.",
+    "source": "Corder et al., 1993; Science",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs429358",
+    "tags": ["cholesterol", "lipids", "APOE", "Alzheimer", "omega-3", "cardiovascular"]
+  },
+  {
+    "id": "snp_comt_stress",
+    "category": "snp",
+    "topic": "stress-focus",
+    "text": "COMT (rs4680, Val158Met) breaks down dopamine in the prefrontal cortex. The A (Met) allele encodes a slower-acting enzyme: AA carriers (Met/Met, the 'worrier') tend to have better sustained attention but greater sensitivity to acute stress; GG (Val/Val, the 'warrior') tend to have better stress tolerance but more variable focus. AA carriers benefit most from stress-management practices - mindfulness, breathwork, paced workloads. GG carriers often thrive under cognitive load and may need novelty or complexity to maintain focus.",
+    "source": "Lachman et al., 1996; Pharmacogenetics",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs4680",
+    "tags": ["stress", "focus", "dopamine", "COMT", "anxiety", "attention", "mindfulness"]
+  },
+  {
+    "id": "snp_bdnf_brain",
+    "category": "snp",
+    "topic": "memory-mood",
+    "text": "BDNF (rs6265, Val66Met) regulates brain-derived neurotrophic factor, which supports neuron growth and synaptic plasticity. The T (Met) allele alters activity-dependent BDNF secretion and has been associated in some studies with differences in memory consolidation, stress recovery, and mood regulation. Aerobic exercise reliably raises BDNF and is especially helpful for T-carriers; adequate sleep, novel learning, and managing chronic stress all support BDNF function.",
+    "source": "Egan et al., 2003; Cell",
+    "url": "https://www.ncbi.nlm.nih.gov/snp/rs6265",
+    "tags": ["BDNF", "memory", "mood", "exercise", "learning", "stress"]
+  },
+  {
+    "id": "rec_morning_daylight",
+    "category": "lifestyle",
+    "topic": "circadian-light",
+    "text": "Getting 10-30 minutes of bright outdoor light within the first hour of waking is one of the most reliable ways to anchor the circadian rhythm. Morning daylight advances the circadian phase, improves daytime alertness, and tends to bring forward sleep onset that evening. This is especially helpful for evening-leaning chronotypes (e.g., CLOCK CC carriers) and people recovering from jet lag or shift work.",
+    "source": "Wright et al., 2013; Curr Biol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23910656/",
+    "tags": ["circadian", "sleep", "morning", "light", "energy", "wake"]
+  },
+  {
+    "id": "rec_caffeine_timing",
+    "category": "lifestyle",
+    "topic": "caffeine-sleep",
+    "text": "Caffeine has a half-life of roughly 5-6 hours in fast metabolisers and up to 8-10 hours in slow metabolisers. To minimise sleep disruption, finish the last caffeinated drink at least 8-10 hours before intended sleep time. Slow CYP1A2 metabolisers should generally cap intake at around 200-300 mg per day (approx. 2 cups of coffee) and prefer mornings. Even when sleep latency feels normal, late caffeine consistently degrades deep sleep architecture.",
+    "source": "Drake et al., 2013; J Clin Sleep Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24235903/",
+    "tags": ["caffeine", "coffee", "sleep", "evening", "energy"]
+  },
+  {
+    "id": "rec_sleep_regularity",
+    "category": "lifestyle",
+    "topic": "sleep-hygiene",
+    "text": "Keeping a fixed wake time even on weekends is one of the strongest evidence-based interventions for sleep quality. Variable wake times - even of 1-2 hours - induce a 'social jetlag' that mimics travelling across time zones every weekend, degrading energy, mood, and metabolic health over weeks and months. If sleep is the priority, anchor wake time first; bedtime will tend to follow naturally.",
+    "source": "Wittmann et al., 2006; Chronobiol Int",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/16687322/",
+    "tags": ["sleep", "wake-time", "regularity", "jet-lag", "energy", "mood"]
+  },
+  {
+    "id": "rec_sleep_duration",
+    "category": "lifestyle",
+    "topic": "sleep-hygiene",
+    "text": "Most adults need 7-9 hours of sleep per night. Habitual sleep under 7 hours is associated with reduced cognitive performance, impaired glucose tolerance, increased appetite (especially for high-energy foods), elevated cardiovascular risk, and higher self-reported fatigue. If habitual sleep is below 7 hours and energy is the complaint, addressing sleep duration is usually the highest-leverage intervention.",
+    "source": "Watson et al., 2015; Sleep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26039963/",
+    "tags": ["sleep", "duration", "energy", "fatigue", "cognition"]
+  },
+  {
+    "id": "rec_short_naps",
+    "category": "lifestyle",
+    "topic": "energy-naps",
+    "text": "Short naps of 10-20 minutes can improve afternoon alertness without entering deep sleep, which means waking up clear-headed instead of groggy. Longer naps (over ~30 minutes) risk sleep inertia and can delay nighttime sleep onset, especially if taken after 3 pm. A short pre-nap caffeine ('caffeine nap') sharpens the alertness boost on waking by aligning with caffeine's peak.",
+    "source": "Tietzel & Lack, 2002; Sleep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12489884/",
+    "tags": ["naps", "energy", "alertness", "afternoon", "caffeine"]
+  },
+  {
+    "id": "rec_endurance_training",
+    "category": "lifestyle",
+    "topic": "exercise-endurance",
+    "text": "Low-intensity steady-state cardio (LISS) - heart rate roughly 60-70% of max, sustainable conversational pace - builds aerobic base, fat oxidation capacity, and parasympathetic tone (HRV). It is well-tolerated and complements harder workouts. Examples: brisk walking, easy cycling, easy swimming, slow running, hiking. Genotypes biased to endurance (e.g., ACTN3 TT) tend to respond particularly well to consistent LISS volume.",
+    "source": "Seiler, 2010; Int J Sports Physiol Perform",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20861519/",
+    "tags": ["exercise", "endurance", "cardio", "LISS", "ACTN3", "HRV"]
+  },
+  {
+    "id": "rec_hiit_power",
+    "category": "lifestyle",
+    "topic": "exercise-power",
+    "text": "High-intensity interval training and explosive lifting target fast-twitch muscle adaptations: power, sprint speed, and neuromuscular efficiency. Genotypes biased to power output (e.g., ACTN3 CC) tend to respond well. Always include a thorough warm-up - especially for ADRB2 GG carriers - and limit weekly true-HIIT sessions to 1-3 to manage cumulative stress.",
+    "source": "Tonnessen et al., 2011; Med Sci Sports Exerc",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21364488/",
+    "tags": ["exercise", "HIIT", "power", "sprint", "ACTN3", "warm-up"]
+  },
+  {
+    "id": "rec_warmup_protocol",
+    "category": "lifestyle",
+    "topic": "exercise-warmup",
+    "text": "A 10-15 minute progressive warm-up - light cardio, dynamic mobility, and a few activation drills - reduces injury risk and primes the cardiovascular response for hard efforts. ADRB2 GG carriers and people with reactive airways particularly benefit from gradual ramps and avoiding sudden maximal efforts from cold. Skipping warm-up is one of the most common avoidable causes of session-to-session inconsistency.",
+    "source": "Fradkin et al., 2010; J Strength Cond Res",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/19996770/",
+    "tags": ["exercise", "warm-up", "injury", "ADRB2", "asthma"]
+  },
+  {
+    "id": "rec_folate_foods",
+    "category": "lifestyle",
+    "topic": "nutrition-folate",
+    "text": "Folate-rich foods support healthy methylation and energy metabolism, especially for MTHFR variant carriers with reduced enzyme activity. Best sources: dark leafy greens (spinach, kale, romaine), legumes (lentils, chickpeas, black beans), asparagus, broccoli, brussels sprouts, citrus fruits, and avocado. Folate is heat-sensitive - lightly steaming or eating raw preserves more than long boiling.",
+    "source": "Bailey et al., 2010; Am J Clin Nutr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20881067/",
+    "tags": ["folate", "nutrition", "MTHFR", "vitamins", "vegetables"]
+  },
+  {
+    "id": "rec_omega3_sources",
+    "category": "lifestyle",
+    "topic": "nutrition-omega3",
+    "text": "Omega-3 fatty acids (EPA and DHA) support cardiovascular and brain health, with stronger benefits reported for APOE e4 carriers. Best sources: oily fish (salmon, mackerel, sardines, anchovies) 2-3 times per week; plant sources (walnuts, flaxseed, chia) provide ALA which is partially converted to EPA/DHA. For non-fish-eaters, an algae-based DHA/EPA supplement is a vegetarian option worth discussing with a clinician.",
+    "source": "Mozaffarian & Wu, 2011; J Am Coll Cardiol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21962509/",
+    "tags": ["omega-3", "nutrition", "APOE", "fish", "cardiovascular", "brain"]
+  },
+  {
+    "id": "rec_protein_satiety",
+    "category": "lifestyle",
+    "topic": "nutrition-satiety",
+    "text": "Higher-protein meals (around 25-40 g protein per meal) enhance satiety more than equivalent calories from carbohydrate or fat, reducing later hunger and snacking. This is particularly helpful for FTO A-carriers and others reporting strong appetite drive. Good sources: eggs, fish, poultry, lean meats, Greek yoghurt, cottage cheese, tofu, tempeh, lentils, edamame, and protein-rich whole grains like quinoa.",
+    "source": "Leidy et al., 2015; Am J Clin Nutr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25926512/",
+    "tags": ["protein", "satiety", "hunger", "FTO", "weight", "appetite"]
+  },
+  {
+    "id": "rec_fiber_gut",
+    "category": "lifestyle",
+    "topic": "nutrition-fiber",
+    "text": "Aim for 25-35 g of fibre per day from whole foods. Fibre supports satiety, blood-sugar stability, gut microbiome diversity, and cholesterol management. Best sources: legumes (the highest density of soluble fibre), oats, barley, vegetables, fruits with skin, nuts, seeds, and whole-grain bread. Increase intake gradually with adequate water to avoid bloating.",
+    "source": "Reynolds et al., 2019; Lancet",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30638909/",
+    "tags": ["fiber", "nutrition", "gut", "satiety", "weight", "cholesterol"]
+  },
+  {
+    "id": "rec_mediterranean_diet",
+    "category": "lifestyle",
+    "topic": "nutrition-pattern",
+    "text": "The Mediterranean dietary pattern - rich in vegetables, fruit, legumes, whole grains, nuts, olive oil, and fish, modest in poultry and dairy, low in red and processed meat - has the strongest evidence base of any dietary pattern for cardiovascular health, cognitive aging, and metabolic markers. It is suitable for most adults and easy to adapt to local cuisines.",
+    "source": "Estruch et al., 2018; N Engl J Med (PREDIMED)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29897866/",
+    "tags": ["nutrition", "Mediterranean", "diet", "cardiovascular", "cognition"]
+  },
+  {
+    "id": "rec_hrv_guided_training",
+    "category": "lifestyle",
+    "topic": "recovery-training",
+    "text": "HRV-guided training adjusts session intensity based on overnight heart-rate-variability readings. When HRV is in or below the personal bottom quartile, swap a planned hard session for an easy one or take a rest day; when HRV is at or above usual, proceed as planned. This approach reduces over-reaching, improves adaptation, and is especially valuable during high life stress, illness recovery, or after travel.",
+    "source": "Vesterinen et al., 2016; Eur J Appl Physiol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26433602/",
+    "tags": ["HRV", "recovery", "training", "exercise", "fatigue"]
+  },
+  {
+    "id": "rec_breathwork_stress",
+    "category": "lifestyle",
+    "topic": "stress-breathwork",
+    "text": "Slow paced breathing (around 5-6 breaths per minute, with longer exhales than inhales) reliably activates the parasympathetic nervous system, lowering heart rate and perceived stress within minutes. Practical formats: box breathing (4-4-4-4), physiological sigh (double inhale through nose, long exhale through mouth), and coherent breathing apps. Useful for COMT Met carriers and anyone with elevated baseline stress.",
+    "source": "Ma et al., 2017; Front Psychol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28659826/",
+    "tags": ["stress", "breathing", "anxiety", "COMT", "calm", "parasympathetic"]
+  },
+  {
+    "id": "rec_aerobic_bdnf",
+    "category": "lifestyle",
+    "topic": "exercise-brain",
+    "text": "Aerobic exercise reliably raises BDNF (brain-derived neurotrophic factor) levels, supporting neuron growth, memory consolidation, and stress recovery. As little as 20-40 minutes of moderate cardio (heart rate around 65-75% of max) several times per week has measurable effects. The benefit appears especially pronounced for BDNF Met carriers, but is broadly useful for everyone.",
+    "source": "Erickson et al., 2011; PNAS",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21282661/",
+    "tags": ["exercise", "BDNF", "brain", "memory", "mood", "cardio"]
+  },
+  {
+    "id": "rec_strength_training",
+    "category": "lifestyle",
+    "topic": "exercise-strength",
+    "text": "Two to three resistance-training sessions per week build and preserve muscle, improve glucose disposal, raise resting metabolic rate, and protect bone density - benefits that compound with age. Start with compound lifts (squat, deadlift, push, pull) at moderate weights and full range, progressing volume before load. Recovery between sessions matters more than absolute intensity for long-term progress.",
+    "source": "Westcott, 2012; Curr Sports Med Rep",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22777332/",
+    "tags": ["exercise", "strength", "resistance", "muscle", "metabolism", "longevity"]
+  },
+  {
+    "id": "rec_walk_after_meals",
+    "category": "lifestyle",
+    "topic": "metabolic-glucose",
+    "text": "A 10-15 minute walk within an hour after meals significantly blunts the post-meal blood-glucose spike, improves insulin sensitivity, and reduces evening fatigue. Even a slow stroll counts. The benefit is largest after the largest meal of the day and is one of the lowest-cost, highest-leverage habits for metabolic health.",
+    "source": "Buffey et al., 2022; Sports Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/35226257/",
+    "tags": ["walking", "glucose", "insulin", "metabolism", "energy", "after-meal"]
+  },
+  {
+    "id": "rec_hydration_sleep",
+    "category": "lifestyle",
+    "topic": "hydration-sleep",
+    "text": "Mild dehydration impairs cognition, mood, and perceived energy within hours, and predicts higher next-day fatigue. Aim for pale-yellow urine through the day. Front-load water intake earlier in the day so you are well hydrated by mid-evening but do not need large drinks close to bed - which will cause sleep-disrupting wake-ups.",
+    "source": "Armstrong et al., 2012; J Nutr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22190027/",
+    "tags": ["hydration", "water", "sleep", "energy", "cognition", "fatigue"]
+  },
+  {
+    "id": "rec_vitamin_d_sun",
+    "category": "lifestyle",
+    "topic": "nutrition-vitamin-d",
+    "text": "Vitamin D is synthesised in the skin from UVB exposure and supports bone health, immune function, and mood regulation. 10-30 minutes of midday sun on arms and face several times a week typically meets needs at temperate latitudes. In winter, at high latitudes, or with darker skin, dietary sources (oily fish, fortified foods) plus tested supplementation may be needed; high doses warrant a clinician's advice.",
+    "source": "Holick, 2007; N Engl J Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17634462/",
+    "tags": ["vitamin D", "sunlight", "bone", "immune", "mood", "nutrition"]
+  },
+  {
+    "id": "rec_magnesium",
+    "category": "lifestyle",
+    "topic": "nutrition-magnesium",
+    "text": "Magnesium plays roles in muscle recovery, nervous-system calming, glucose regulation, and sleep quality. Many adults consume below the recommended 320-420 mg/day. Best food sources: leafy greens (spinach, swiss chard), nuts (almonds, cashews), seeds (pumpkin, chia), legumes, and dark chocolate. Magnesium glycinate or citrate are the better-absorbed supplemental forms; discuss with a clinician.",
+    "source": "Schwalfenberg & Genuis, 2017; Scientifica",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29093983/",
+    "tags": ["magnesium", "minerals", "sleep", "recovery", "stress", "nutrition"]
+  },
+  {
+    "id": "rec_gut_microbiome",
+    "category": "lifestyle",
+    "topic": "nutrition-gut",
+    "text": "A diverse gut microbiome is linked to better metabolic health, mood (via the gut-brain axis), and immune function. The single biggest predictor of microbiome diversity in humans is the variety of plant foods eaten - aim for 30+ different plants per week (vegetables, fruit, legumes, nuts, seeds, whole grains, herbs, spices). Antibiotics and ultra-processed diets reduce diversity.",
+    "source": "McDonald et al., 2018; mSystems (American Gut Project)",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29795809/",
+    "tags": ["gut", "microbiome", "diversity", "plants", "fiber", "mood", "nutrition"]
+  },
+  {
+    "id": "rec_fermented_foods",
+    "category": "lifestyle",
+    "topic": "nutrition-fermented",
+    "text": "Regular consumption of fermented foods (yogurt with live cultures, kefir, kimchi, sauerkraut, kombucha, miso, tempeh) increases gut microbiome diversity and reduces inflammatory markers. A 2021 Stanford trial showed a high-fermented-food diet outperformed a high-fiber-only diet for microbiome diversity over 10 weeks. Start with small servings to allow gradual gut adaptation.",
+    "source": "Wastyk et al., 2021; Cell",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/34256014/",
+    "tags": ["fermented", "yogurt", "kimchi", "gut", "microbiome", "inflammation", "nutrition"]
+  },
+  {
+    "id": "rec_time_restricted_eating",
+    "category": "lifestyle",
+    "topic": "nutrition-timing",
+    "text": "Eating within a consistent 8-12 hour window each day supports circadian alignment, glucose regulation, and weight management. Common patterns: 16:8 (eat between noon-8pm) or a more moderate 12:12. Benefits accrue more from consistency and earlier eating windows than from severe restriction. Not appropriate for those with eating-disorder history, pregnancy, or specific medical conditions - check with a clinician.",
+    "source": "Sutton et al., 2018; Cell Metab",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29874566/",
+    "tags": ["fasting", "intermittent", "timing", "circadian", "glucose", "weight", "nutrition"]
+  },
+  {
+    "id": "rec_zone2_cardio",
+    "category": "lifestyle",
+    "topic": "exercise-zone2",
+    "text": "Zone 2 training - sustained cardio at 60-70% of max heart rate, conversational pace - builds mitochondrial density, fat-oxidation capacity, and aerobic base. Sessions of 45-60 minutes, 2-4 times per week, are the cornerstone of any endurance program. Examples: easy run, brisk uphill walk, easy bike ride. Low recovery cost and complementary to harder sessions.",
+    "source": "San-Millan & Brooks, 2018; Sports Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29282686/",
+    "tags": ["exercise", "zone 2", "endurance", "cardio", "mitochondria", "aerobic"]
+  },
+  {
+    "id": "rec_vo2_max_longevity",
+    "category": "lifestyle",
+    "topic": "exercise-longevity",
+    "text": "Higher cardiorespiratory fitness (VO2 max) is one of the strongest single predictors of all-cause mortality, with each 1 mL/kg/min improvement associated with measurable longevity gains. Improving VO2 max requires periodic high-intensity training (e.g., 4x4 minutes at 90-95% max heart rate, with 3-minute recoveries) layered on top of a Zone 2 base. 1-2 sessions per week is sufficient.",
+    "source": "Mandsager et al., 2018; JAMA Netw Open",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30382158/",
+    "tags": ["VO2 max", "longevity", "fitness", "HIIT", "cardiovascular", "mortality"]
+  },
+  {
+    "id": "rec_mindfulness_daily",
+    "category": "lifestyle",
+    "topic": "stress-mindfulness",
+    "text": "Daily mindfulness practice of 10-20 minutes reduces perceived stress, improves attention, and lowers markers of chronic inflammation in randomised trials. Beginners can start with guided apps (Headspace, Calm, Insight Timer) or simple breath-focused practice. Consistency over weeks matters more than intensity per session - 10 minutes daily beats 70 minutes once a week.",
+    "source": "Goyal et al., 2014; JAMA Intern Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/24395196/",
+    "tags": ["mindfulness", "meditation", "stress", "attention", "anxiety", "mental health"]
+  },
+  {
+    "id": "rec_gratitude_journaling",
+    "category": "lifestyle",
+    "topic": "stress-gratitude",
+    "text": "Writing 3-5 things you're grateful for daily, especially before bed, has been associated with improved sleep quality, reduced depression symptoms, and better well-being in randomised studies. The practice takes 2-5 minutes; consistency over 2-4 weeks matters more than length per session. A simple paper notebook outperforms apps for most people.",
+    "source": "Emmons & McCullough, 2003; J Pers Soc Psychol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/12585811/",
+    "tags": ["gratitude", "journaling", "mood", "sleep", "depression", "well-being"]
+  },
+  {
+    "id": "rec_social_connection",
+    "category": "lifestyle",
+    "topic": "stress-social",
+    "text": "Strong social relationships are as predictive of longevity as not smoking, and more predictive than diet or exercise. Aim for regular face-to-face contact with people you care about - the relationship quality, not the count, drives the benefit. A few close, supportive relationships outperform many shallow connections for both mental and physical health.",
+    "source": "Holt-Lunstad et al., 2010; PLoS Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/20668659/",
+    "tags": ["social", "relationships", "longevity", "mental health", "well-being", "loneliness"]
+  },
+  {
+    "id": "rec_nature_exposure",
+    "category": "lifestyle",
+    "topic": "stress-nature",
+    "text": "Time in green spaces reliably reduces cortisol, blood pressure, and self-reported stress. As little as 20-30 minutes 2-3 times a week shows measurable effects in controlled studies. Forest, park, garden, or even tree-lined urban streets count. The effect appears independent of exercise - passive presence in nature provides much of the benefit.",
+    "source": "Hunter et al., 2019; Front Psychol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/31048391/",
+    "tags": ["nature", "green space", "stress", "cortisol", "blood pressure", "mental health"]
+  },
+  {
+    "id": "rec_cold_exposure",
+    "category": "lifestyle",
+    "topic": "recovery-cold",
+    "text": "Brief cold exposure - cold-shower endings (30-90 seconds), cold-water immersion - activates norepinephrine and brown adipose tissue, with reported short-term effects on alertness, mood, and metabolic activity. Start gradually: 30 seconds at the end of a warm shower. Long-term cardiovascular benefits remain debated. Not suitable for those with cardiovascular conditions or pregnancy without medical clearance.",
+    "source": "Esperland et al., 2022; Int J Circumpolar Health",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36106985/",
+    "tags": ["cold", "shower", "recovery", "norepinephrine", "alertness", "brown fat"]
+  },
+  {
+    "id": "rec_sauna_cardio",
+    "category": "lifestyle",
+    "topic": "recovery-heat",
+    "text": "Regular sauna use (2-4 sessions per week, 15-30 minutes at 80-100 C) has been associated with reduced cardiovascular and all-cause mortality in long-term Finnish cohort studies. Hydration before and after is essential. Not suitable for pregnancy, unstable cardiovascular conditions, or while taking certain medications - check with a clinician.",
+    "source": "Laukkanen et al., 2015; JAMA Intern Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/25705824/",
+    "tags": ["sauna", "heat", "recovery", "cardiovascular", "longevity", "Finnish"]
+  },
+  {
+    "id": "rec_yoga_mobility",
+    "category": "lifestyle",
+    "topic": "exercise-mobility",
+    "text": "Yoga combines flexibility, balance, breath, and stress regulation in one practice. Two to three sessions of 30-60 minutes per week improve mobility, reduce back pain, and lower perceived stress. Beginners should start with hatha or restorative styles; vinyasa and ashtanga add cardiovascular intensity. Especially complementary to strength training for joint health and recovery.",
+    "source": "Cramer et al., 2013; Pain",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/23537603/",
+    "tags": ["yoga", "mobility", "flexibility", "stress", "back pain", "balance", "exercise"]
+  },
+  {
+    "id": "rec_weight_bearing_bones",
+    "category": "lifestyle",
+    "topic": "exercise-bones",
+    "text": "Bones strengthen in response to mechanical load. Weight-bearing exercise (walking, hiking, dancing) and impact activities (running, jumping rope) maintain bone density better than non-impact activities (swimming, cycling). Resistance training adds strong loading benefits. Bone-building gains accrue at all ages but are particularly critical in 30s-50s when peak bone mass is established and starts to decline.",
+    "source": "Howe et al., 2011; Cochrane Database Syst Rev",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/21735380/",
+    "tags": ["bones", "osteoporosis", "weight-bearing", "impact", "strength", "exercise", "longevity"]
+  },
+  {
+    "id": "rec_eye_20_20_20",
+    "category": "lifestyle",
+    "topic": "eye-screens",
+    "text": "Prolonged screen work causes digital eye strain - blurred vision, dry eyes, headaches. The 20-20-20 rule helps: every 20 minutes, look at something 20 feet (6 m) away for at least 20 seconds. Combine with deliberate blinking, screen distance of arm's length, and adequate ambient lighting. Persistent or sudden vision changes warrant an optometrist visit.",
+    "source": "Sheppard & Wolffsohn, 2018; BMJ Open Ophthalmol",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29963645/",
+    "tags": ["eyes", "vision", "screens", "computer", "20-20-20", "ergonomics", "headache"]
+  },
+  {
+    "id": "rec_posture_ergonomics",
+    "category": "lifestyle",
+    "topic": "posture-ergonomics",
+    "text": "Prolonged sitting with poor posture contributes to back, neck, and shoulder pain. Set monitor at eye level, feet flat, knees and elbows around 90 degrees, screen an arm's length away. Take movement breaks every 30-60 minutes. Alternating between sitting and standing through the day is more protective than either alone.",
+    "source": "Daneshmandi et al., 2017; J Lifestyle Med",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/28695103/",
+    "tags": ["posture", "ergonomics", "sitting", "desk", "back pain", "neck", "screens"]
+  },
+  {
+    "id": "rec_sleep_environment",
+    "category": "lifestyle",
+    "topic": "sleep-environment",
+    "text": "Sleep quality is shaped by the environment: cool (around 18 C / 65 F), dark (blackout curtains or eye mask), and quiet (white noise or earplugs if needed). Remove notifications and electronics, or set a 'do not disturb' window. A comfortable, supportive mattress and pillow contribute to both sleep continuity and back/neck health.",
+    "source": "Caddick et al., 2018; Build Environ",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/29785063/",
+    "tags": ["sleep", "environment", "bedroom", "temperature", "dark", "quiet", "mattress"]
+  },
+  {
+    "id": "rec_prebed_routine",
+    "category": "lifestyle",
+    "topic": "sleep-routine",
+    "text": "A consistent 30-60 minute pre-bed routine signals the brain to prepare for sleep. Effective elements: dim lighting, no screens (or warm-light filters), light reading or stretching, calming music, slow breathwork. Avoid stimulating activities (vigorous exercise, intense work, conflict) within 2 hours of bed.",
+    "source": "Suni & Vyas, 2023; Sleep Foundation review",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/26412569/",
+    "tags": ["sleep", "routine", "bedtime", "wind-down", "screens", "evening", "hygiene"]
+  },
+  {
+    "id": "rec_box_breathing",
+    "category": "lifestyle",
+    "topic": "stress-breathing",
+    "text": "Box breathing - inhale 4 counts, hold 4, exhale 4, hold 4 - is used by Navy SEALs, athletes, and clinicians to rapidly downregulate the stress response. 5-10 cycles take 2-3 minutes and noticeably lower heart rate and perceived stress. Particularly useful before high-pressure tasks, during anxiety spikes, or as a 90-second reset between meetings.",
+    "source": "Zaccaro et al., 2018; Front Hum Neurosci",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/30245619/",
+    "tags": ["breathing", "box breathing", "stress", "anxiety", "focus", "calm", "parasympathetic"]
+  },
+  {
+    "id": "rec_caffeine_performance",
+    "category": "lifestyle",
+    "topic": "nutrition-caffeine-performance",
+    "text": "Caffeine (3-6 mg/kg, taken 30-60 minutes before exercise) reliably improves endurance and high-intensity performance in trained adults. Slow CYP1A2 metabolisers should use the lower end (3 mg/kg) to avoid lingering effects. Habituation reduces ergogenic benefit over weeks. Not recommended close to bedtime regardless of metaboliser status.",
+    "source": "Guest et al., 2021; J Int Soc Sports Nutr",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/33388079/",
+    "tags": ["caffeine", "exercise", "performance", "ergogenic", "CYP1A2", "athletic"]
+  },
+  {
+    "id": "rec_polyphenols",
+    "category": "lifestyle",
+    "topic": "nutrition-polyphenols",
+    "text": "Polyphenols - antioxidant compounds in colourful plants - support cardiovascular health, gut microbiome diversity, and reduce systemic inflammation. Best sources: berries, dark chocolate (70% cocoa or higher), green tea, extra-virgin olive oil, red onions, herbs and spices. The simple heuristic 'eat the rainbow' covers most of this with no calorie counting.",
+    "source": "Del Rio et al., 2013; Antioxid Redox Signal",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/22420870/",
+    "tags": ["polyphenols", "antioxidants", "colorful", "berries", "green tea", "olive oil", "anti-inflammatory"]
+  },
+  {
+    "id": "rec_hydration_exercise",
+    "category": "lifestyle",
+    "topic": "hydration-exercise",
+    "text": "During exercise lasting more than 60 minutes, replace fluids at 0.4-0.8 L per hour, more in heat. Sessions under 60 minutes are usually fine on water alone. Longer or hotter efforts benefit from electrolytes (sodium primarily, plus potassium). Pre-hydrate with 400-600 ml water 2 hours before. Thirst is a late signal - drink proactively, especially in heat.",
+    "source": "Sawka et al., 2007; Med Sci Sports Exerc",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/17277604/",
+    "tags": ["hydration", "exercise", "electrolytes", "performance", "endurance", "heat", "sweat"]
+  },
+  {
+    "id": "rec_walking_variety",
+    "category": "lifestyle",
+    "topic": "exercise-walking",
+    "text": "Varying walking intensity and terrain provides better cardiovascular and metabolic benefits than constant-pace walks. Mix in hill segments, short tempo intervals (90 seconds faster, 90 slower), or rough terrain. A 30-minute walk with a 5-10 minute uphill burst burns more calories and stresses the heart productively without requiring a separate workout.",
+    "source": "Hettiarachchi et al., 2022; Int J Environ Res Public Health",
+    "url": "https://pubmed.ncbi.nlm.nih.gov/36011835/",
+    "tags": ["walking", "intervals", "intensity", "cardio", "metabolism", "outdoor", "exercise"]
+  }
+]

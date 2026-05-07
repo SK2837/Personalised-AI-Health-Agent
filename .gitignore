@@ -1,0 +1,37 @@
+# --- Python ---
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.pytest_cache/
+
+# --- Secrets ---
+.env
+
+# --- Data (too large + privacy) ---
+data/raw/
+data/processed/
+data/interim/
+*.bson
+
+# --- Generated artefacts ---
+*.db
+*.sqlite
+*.sqlite3
+chroma_db/
+*.joblib
+*.pkl
+
+# --- Demo media (large) ---
+demo/walkthrough.mp4
+demo/*.mp4
+
+# --- IDE / OS ---
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+*.log
+API_Key.txt

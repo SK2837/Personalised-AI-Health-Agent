@@ -1,0 +1,20 @@
+# PHAI Streamlit theme - 10x Health-inspired light premium aesthetic.
+#   base       = light
+#   primary    = bold red (action / brand)
+#   background = white
+#   surface    = very light warm gray (sidebar, cards)
+#   text       = near-black
+
+[theme]
+base = "light"
+primaryColor = "#dc2626"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f8fafc"
+textColor = "#1f2937"
+font = "sans serif"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+fileWatcherType = "none"
