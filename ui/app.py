@@ -29,6 +29,12 @@ sys.path.insert(0, str(PROJECT_ROOT))
 
 DB_PATH = PROJECT_ROOT / "phai.db"
 
+# Auto-initialize DB on first run (needed on Streamlit Cloud where phai.db is not committed).
+if not DB_PATH.exists():
+    _schema = (PROJECT_ROOT / "db" / "schema.sql").read_text(encoding="utf-8")
+    with sqlite3.connect(DB_PATH) as _conn:
+        _conn.executescript(_schema)
+
 
 # ---------------------------------------------------------------------------
 # Page config (must be first Streamlit call)
